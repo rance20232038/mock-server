@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "education",
+      "title": "Free Coding Workshop",
+      "description": "Learn the basics of programming for free.",
+      "location": "Tech Hub",
+      "date": "August 15, 2022",
+      "time": "14:00",
+      "petsAllowed": false,
+      "organizer": "Code Mentor"
     }
   ]
 }
